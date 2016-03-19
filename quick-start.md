@@ -48,6 +48,12 @@ npm install -g gulp
 
 ### Get the `aurelia-axel` repo on your workstation
 
+From the bash shell, clone the [aurelia-axel](https://github.com/cmichaelgraham/aurelia-axel) repo.  Hint: make sure you are in the folder under which you'd like the aurelia-axel folder created.
+
+```bash
+git clone git://github.com/cmichaelgraham/aurelia-axel
+```
+
 ### Prepare Visual Studio
 
 ### Prepare SQL Server
