@@ -1,23 +1,43 @@
 # Quick Start Guide
 
-## Get the `aurelia-axel` repo on your workstation
+## Setting up your environment
 
-## Prepare Visual Studio
+### Get the `aurelia-axel` repo on your workstation
 
-## Prepare SQL Server
+### Prepare Visual Studio
 
-## Create EF Model
+### Prepare SQL Server
 
-## Create OData Controller
+## Creating OData Services
 
-## Create Search Page
+### Create EF Model
 
-## Create Details Page
+### Create OData Controller
 
-## Document C# Assets
+## Create Client Web Pages
 
-## Document TypeScript Assets
+### Create Search Page
 
-## Create Unit Tests
+### Create Details Page
 
-## Create E2E Tests
+## Documentation
+
+### Document C# Assets
+
+### Document TypeScript Assets
+
+## Testing
+
+### Create Unit Tests
+
+### Create E2E Tests
+
+## Clients
+
+### Web App Client
+
+### Electron-based Desktop Client
+
+### Phone Gap - Android Client
+
+### Phone Gap - iOS Client
