@@ -2,6 +2,8 @@
 
 ## Setting up your environment
 
+### bash, node, and gulp
+
 ### Get the `aurelia-axel` repo on your workstation
 
 ### Prepare Visual Studio
