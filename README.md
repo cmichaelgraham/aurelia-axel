@@ -2,6 +2,13 @@
 As a Visual Studio TypeScript and C# developer building web-based, spatial information systems targeting a variety of platforms that leverage ESRI and SQL Server, I want a starter kit so that I can rapidly build implementations.  
 
 I want a [Quick Start Guide](https://github.com/cmichaelgraham/aurelia-axel/blob/master/quick-start.md#quick-start-guide) that includes recipes for: 
+* setting up my environment: 
+    * visual studio
+    * sql server
+    * local copy of aurelia-axel
+* creating odata services
+* creating client web pages
+* creating simple map functions
 * creating unit tests
 * creating end-to-end (e2e) tests
 * creating reference documentation for server-side assets
