@@ -1,5 +1,16 @@
 # aurelia-axel
-As a Visual Studio TypeScript and C# developer building web-based, spatial information systems targeting a variety of platforms that leverage ESRI and SQL Server, I want a starter kit so that I can rapidly build implementations.  I want the starter kit to include a recipe for creating unit tests, for creating end-to-end (e2e) tests, and for creating reference documentation for both server-side and client-side code assets.
+As a Visual Studio TypeScript and C# developer building web-based, spatial information systems targeting a variety of platforms that leverage ESRI and SQL Server, I want a starter kit so that I can rapidly build implementations.  
+
+I want a quick start guide that includes recipes 
+* creating unit tests
+* creating end-to-end (e2e) tests
+* creating reference documentation for server-side assets
+* creating reference documentation for client-side code assets.
+* creating web app client
+* creating electron desktop client
+* creating phonegap clients
+    * Android
+    * iOS
 
 ## [Quick Start Guide](https://github.com/cmichaelgraham/aurelia-axel/blob/master/quick-start.md#quick-start-guide)
 
