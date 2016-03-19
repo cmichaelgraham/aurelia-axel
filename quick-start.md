@@ -36,6 +36,16 @@ This will bring up the settings dialog.  Select the `Tasks` item under `Startup`
 Now you can select the `Startup` option in the tree on the left, and make sure the Bash task is the startup action:
 ![image](https://cloud.githubusercontent.com/assets/10272832/13898442/ad8078e8-ed96-11e5-8f62-a173319dd76c.png)
 
+### gulp
+
+Now, to `automate and enhance your workflow`, you will need to install [gulp](http://gulpjs.com/).
+
+From the bash shell, install gulp (globally):
+
+```bash
+npm install -g gulp
+```
+
 ### Get the `aurelia-axel` repo on your workstation
 
 ### Prepare Visual Studio
