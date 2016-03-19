@@ -15,6 +15,7 @@ You can easily install node by visiting the [nodejs website](https://nodejs.org/
 ### windows git client
 
 I use the ***amazing*** [Atlassian Git Client for Windows](https://www.atlassian.com/software/sourcetree/overview/)
+
 ![image](https://cloud.githubusercontent.com/assets/10272832/13898503/b840b87c-ed98-11e5-8516-8a04297be101.png)
 
 Alternatively, you could use [GitHub for Windows](https://windows.github.com/), if you prefer.
