@@ -2,7 +2,13 @@
 
 ## Setting up your environment
 
-### bash, node, and gulp
+### node
+
+You can easily install node by visiting the [nodejs website](https://nodejs.org/en/)
+
+> Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
+
+### bash
 
 There is great power and flexibility (as well as a great cross platform story) with bash, node, gulp and related tools.  For windows users, the bash shell is a command prompt.  Learning the bash shell will serve you well if you every want to develop on a mac or other non-windows environment.
 
