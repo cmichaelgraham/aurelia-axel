@@ -62,6 +62,10 @@ I won't go into it here, but you can also clone using the wonderful [Atlassian S
 
 ### Prepare Visual Studio
 
+If you don't alerady have it, grab yourself a copy of [Visual Studio - (free) Community Edition](https://www.visualstudio.com/products/visual-studio-community-vs)
+
+You'll need this for developing the server-side code.  This is only one path for server-side code, of course.
+
 ### Prepare SQL Server
 
 ## Creating OData Services
