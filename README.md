@@ -1,5 +1,5 @@
 # aurelia-axel
-As a Visual Studio TypeScript and C# developer building web-based, spatial information systems targeting a variety of platforms that leverage ESRI and SQL Server, I want a starter kit so that I can rapidly build implementations.  
+As a Visual Studio TypeScript and C# developer with a Microsoft Windows workstation who is building web-based, spatial information systems targeting a variety of platforms that leverage ESRI and SQL Server, I want a starter kit so that I can rapidly build implementations.  
 
 I want a [Quick Start Guide](https://github.com/cmichaelgraham/aurelia-axel/blob/master/quick-start.md#quick-start-guide) that includes recipes for: 
 * setting up my environment: 
