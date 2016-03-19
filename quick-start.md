@@ -58,7 +58,7 @@ For help with the above command, see great [Atlassian Getting Started Info](http
 
 Less fun, but also works: download the [zip file](https://github.com/cmichaelgraham/aurelia-axel/archive/master.zip) and extract it in the location you desire.
 
-I won't go into it here, but you can clone using [Atlassian SourceTree]()
+I won't go into it here, but you can also clone using the wonderful [Atlassian SourceTree](https://www.atlassian.com/software/sourcetree/overview/) application.
 
 ### Prepare Visual Studio
 
