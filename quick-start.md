@@ -10,7 +10,7 @@ You can easily install node by visiting the [nodejs website](https://nodejs.org/
 
 ### bash
 
-There is great power and flexibility (as well as a great cross platform story) with bash, node, gulp and related tools.  For windows users, the bash shell is a command prompt.  Learning the bash shell will serve you well if you every want to develop on a mac or other non-windows environment.
+There is great power and flexibility (as well as a great cross platform story) with bash, node, gulp and related tools.  For windows users, the bash shell is similar to the DOS command prompt.  Learning the bash shell will serve you well if you every want to develop on a mac or other non-windows environment.
 
 The bash shell can be hosted by an application called `conemu` located [here](https://conemu.github.io/).  The conemu application is great.  You can right click on a tab at the top and split vertically or horizontally (and also to restart the shell as admin, which you will usually want to do).
 
