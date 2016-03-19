@@ -8,6 +8,18 @@ You can easily install node by visiting the [nodejs website](https://nodejs.org/
 
 > Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
 
+### git
+
+[Install Git for Windows](http://git-scm.com/download/win)
+
+### windows git client
+
+I use the ***amazing*** [Atlassian Git Client for Windows](https://www.atlassian.com/software/sourcetree/overview/)
+![image](https://cloud.githubusercontent.com/assets/10272832/13898503/b840b87c-ed98-11e5-8516-8a04297be101.png)
+
+Alternatively, you could use [GitHub for Windows](https://windows.github.com/), if you prefer.
+
+
 ### bash
 
 There is great power and flexibility (as well as a great cross platform story) with bash, node, gulp and related tools.  For windows users, the bash shell is similar to the DOS command prompt.  Learning the bash shell will serve you well if you every want to develop on a mac or other non-windows environment.
