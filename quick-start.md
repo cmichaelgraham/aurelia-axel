@@ -68,6 +68,8 @@ You'll need this for developing the server-side code.  This is only one path for
 
 ### Prepare SQL Server
 
+We are going to put some data into SQL Server, so if you don't have access to an existing SQL Server database, you can get the (free) [SQL Server Express here](https://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx).  The version with the tools will give you SQL Server Management Studio, excellent for managing your databases.
+
 ## Creating OData Services
 
 ### Create EF Model
