@@ -54,6 +54,12 @@ From the bash shell, clone the [aurelia-axel](https://github.com/cmichaelgraham/
 git clone git://github.com/cmichaelgraham/aurelia-axel
 ```
 
+For help with the above command, see great [Atlassian Getting Started Info](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone)
+
+Less fun, but also works: download the [zip file](https://github.com/cmichaelgraham/aurelia-axel/archive/master.zip) and extract it in the location you desire.
+
+I won't go into it here, but you can clone using [Atlassian SourceTree]()
+
 ### Prepare Visual Studio
 
 ### Prepare SQL Server
