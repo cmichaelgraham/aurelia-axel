@@ -132,3 +132,24 @@ These files can either be produced and served statically, or be generated dynami
 ### Phone Gap - Android Client
 
 ### Phone Gap - iOS Client
+
+## Some Setup Notes
+
+### Creating the ASP.Net Web Application
+
+In Visual Studio, choose `new project`
+
+![image](https://cloud.githubusercontent.com/assets/10272832/13905022/639b5480-ee79-11e5-9335-bc57c2737c41.png)
+
+Select the `ASP.NET 4.5.2 "EMPTY"` project type
+
+![image](https://cloud.githubusercontent.com/assets/10272832/13905045/df5a461c-ee79-11e5-84b2-ae7f7798874a.png)
+
+Copy the scripts, styles, typeings, favicon.ico, and index.html pages from another working project
+
+![image](https://cloud.githubusercontent.com/assets/10272832/13905066/706b7c20-ee7a-11e5-9d81-5bd68616f2f8.png)
+
+Click `show all files` icon, select the files, right click and choose `include in project` menu option
+
+![image](https://cloud.githubusercontent.com/assets/10272832/13905078/05f99b28-ee7b-11e5-837d-8adedaa320bd.png)
+
