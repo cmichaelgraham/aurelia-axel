@@ -88,6 +88,15 @@ We are going to put some data into SQL Server, so if you don't have access to an
 
 ### Document TypeScript Assets
 
+### Documenting WebAPIs
+
+1. Right click Visual Studio Solution
+2. Choose `Manage Nuget Packages`
+3. Search for `Swashbuckle` on nuget.org
+4. Add it to your WebAPI project
+5. Search for `Swashbuckle.OData`
+6. Add it to your WebAPI project
+
 ## Testing
 
 ### Create Unit Tests
