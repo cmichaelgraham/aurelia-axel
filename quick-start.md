@@ -132,3 +132,13 @@ These files can either be produced and served statically, or be generated dynami
 ### Phone Gap - Android Client
 
 ### Phone Gap - iOS Client
+
+## Some Setup Notes
+
+### Creating the ASP.Net Web Application
+
+In Visual Studio, choose `new project`
+
+![image](https://cloud.githubusercontent.com/assets/10272832/13905022/639b5480-ee79-11e5-9335-bc57c2737c41.png)
+
+Select the `ASP.NET 4.5.2 "EMPTY"` project type
