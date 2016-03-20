@@ -142,3 +142,5 @@ In Visual Studio, choose `new project`
 ![image](https://cloud.githubusercontent.com/assets/10272832/13905022/639b5480-ee79-11e5-9335-bc57c2737c41.png)
 
 Select the `ASP.NET 4.5.2 "EMPTY"` project type
+
+![image](https://cloud.githubusercontent.com/assets/10272832/13905045/df5a461c-ee79-11e5-84b2-ae7f7798874a.png)
