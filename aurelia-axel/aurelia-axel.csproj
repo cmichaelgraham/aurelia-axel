@@ -134,6 +134,13 @@
     <Content Include="typings\core-js\core-js.d.js" />
     <Content Include="typings\dojo\dojo.d.js" />
     <Content Include="typings\esri\esri.d.js" />
+    <Content Include="views\app.html" />
+    <Content Include="views\child-router.html" />
+    <Content Include="views\esri-globe.html" />
+    <Content Include="views\flickr.html" />
+    <Content Include="views\nav-bar.html" />
+    <Content Include="views\users.html" />
+    <Content Include="views\welcome.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -179,6 +186,15 @@
     <TypeScriptCompile Include="typings\nprogress.d.ts" />
     <TypeScriptCompile Include="typings\reflect-metadata.d.ts" />
     <TypeScriptCompile Include="typings\whatwg-fetch\whatwg-fetch.d.ts" />
+    <TypeScriptCompile Include="views\animation-main.ts" />
+    <TypeScriptCompile Include="views\app.ts" />
+    <TypeScriptCompile Include="views\blur-image.ts" />
+    <TypeScriptCompile Include="views\child-router.ts" />
+    <TypeScriptCompile Include="views\esri-globe.ts" />
+    <TypeScriptCompile Include="views\flickr.ts" />
+    <TypeScriptCompile Include="views\main.ts" />
+    <TypeScriptCompile Include="views\users.ts" />
+    <TypeScriptCompile Include="views\welcome.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
@@ -188,6 +204,22 @@
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
+    <TypeScriptTarget>ES5</TypeScriptTarget>
+    <TypeScriptCompileOnSaveEnabled>True</TypeScriptCompileOnSaveEnabled>
+    <TypeScriptNoImplicitAny>False</TypeScriptNoImplicitAny>
+    <TypeScriptModuleKind>AMD</TypeScriptModuleKind>
+    <TypeScriptRemoveComments>False</TypeScriptRemoveComments>
+    <TypeScriptExperimentalDecorators>true</TypeScriptExperimentalDecorators>
+    <TypeScriptEmitDecoratorMetadata>true</TypeScriptEmitDecoratorMetadata>
+    <TypeScriptOutFile />
+    <TypeScriptOutDir />
+    <TypeScriptGeneratesDeclarations>False</TypeScriptGeneratesDeclarations>
+    <TypeScriptNoEmitOnError>True</TypeScriptNoEmitOnError>
+    <TypeScriptSourceMap>True</TypeScriptSourceMap>
+    <TypeScriptMapRoot />
+    <TypeScriptSourceRoot />
+  </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
