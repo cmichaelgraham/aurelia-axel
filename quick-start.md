@@ -64,7 +64,11 @@ I won't go into it here, but you can also clone using the wonderful [Atlassian S
 
 If you don't alerady have it, grab yourself a copy of [Visual Studio - (free) Community Edition](https://www.visualstudio.com/products/visual-studio-community-vs)
 
-You'll need this for developing the server-side code.  This is only one path for server-side code, of course.
+We are going to be using `gulp` for various build steps (which will be `tasks` in a `gulpfile.js`).  It is very convenient to be able to run these tasks from within Visual Studio.
+
+Luckily, the brilliant [Mads Kristensen](http://madskristensen.net/) is on the case and has provided (a separately installed) [Task Runner Explorer](https://visualstudiogallery.msdn.microsoft.com/8e1b4368-4afb-467a-bc13-9650572db708) which can display and run `gulp` tasks from within Visual Studio.
+
+You'll need Visual Studio for developing the server-side code.  This is only one path for server-side code, of course.
 
 ### Prepare SQL Server
 
